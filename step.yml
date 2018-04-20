@@ -1,6 +1,6 @@
 ---
 name: random
-version: 1.0.0
+version: 1.1.0
 summary: Output random data to stdout
 tags:
 - random
@@ -9,3 +9,6 @@ properties:
   type: string
   required: true
   default: "24"
+- name: msg
+  type: string
+  required: false
