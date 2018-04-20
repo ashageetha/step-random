@@ -1,0 +1,11 @@
+---
+name: random
+version: 1.0.0
+summary: Output random data to stdout
+tags:
+- random
+properties:
+- name: octets
+  type: string
+  required: true
+  default: "24"
