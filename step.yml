@@ -1,5 +1,5 @@
 ---
-name: random
+name: randomtest
 version: 1.0.0
 summary: Output random data to stdout
 tags:
